@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Microsoft Windows Defender and Firewall]([https://github.com](https://github.com/kevinnyeo/MicrosoftWindowsDefenderFirewall/tree/main)
+- [Microsoft Windows Defender and Firewall](https://github.com/kevinnyeo/MicrosoftWindowsDefenderFirewall/tree/main)
 
 <h2>📝 Certifications: </h2>
 
