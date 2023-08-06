@@ -20,6 +20,7 @@
 
 - [Configuring Microsoft Windows Defender and Firewall](https://github.com/kevinnyeo/MicrosoftWindowsDefenderFirewall)
 - [Microsoft Windows Defender Firewall Automation (Python Script)](https://github.com/kevinnyeo/FirewallAutomation)
+- [Wireshark Network Analysis Home Lab](https://github.com/kevinnyeo/wiresharkhomelab)
 
 <h2>📝 Certifications: </h2>
 
