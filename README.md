@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Microsoft Windows Defender and Firewall](https://github.com/kevinnyeo/MicrosoftWindowsDefenderFirewall)
-- [Microsoft Windows Defender Firewall Automation (Python)](https://github.com/kevinnyeo/FirewallAutomation)
+- [Configuring Microsoft Windows Defender and Firewall](https://github.com/kevinnyeo/MicrosoftWindowsDefenderFirewall)
+- [Microsoft Windows Defender Firewall Automation (Python Script)](https://github.com/kevinnyeo/FirewallAutomation)
 
 <h2>📝 Certifications: </h2>
 
