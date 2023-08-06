@@ -27,7 +27,7 @@
 - [Google Cybsecurity Professional](https://github.com/joshmadakor1/Algorithms-Practice)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinyeo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kevinyeo) 
 
 
 
