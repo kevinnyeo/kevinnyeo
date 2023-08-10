@@ -18,10 +18,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Configuring Microsoft Windows Defender and Firewall](https://github.com/kevinnyeo/MicrosoftWindowsDefenderFirewall)
-- [Microsoft Windows Defender Firewall Automation (Python Script)](https://github.com/kevinnyeo/FirewallAutomation)
-- [Wireshark Network Analysis Home Lab](https://github.com/kevinnyeo/wiresharkhomelab)
-
+- [Configuring Microsoft Windows Defender and Firewall 🛡️🔥🧱](https://github.com/kevinnyeo/MicrosoftWindowsDefenderFirewall)
+- [Microsoft Windows Defender Firewall Automation (Python Script) ⚙️🔧🐍](https://github.com/kevinnyeo/FirewallAutomation)
+- [Wireshark Network Analysis Home Lab ➰🦈](https://github.com/kevinnyeo/wiresharkhomelab)
+- [Malware Hunting With Endpoint Security Tool Redline 👾💻☠️](https://github.com/kevinnyeo/Malwarehunting)
 <h2>📝 Certifications: </h2>
 
 - [Google IT Support Professional](https://github.com/joshmadakor1/Algorithms-Practice)
