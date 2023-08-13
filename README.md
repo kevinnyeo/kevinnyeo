@@ -22,6 +22,8 @@
 - [Microsoft Windows Defender Firewall Automation [Python Script] ⚙️🔧🐍](https://github.com/kevinnyeo/FirewallAutomation)
 - [Wireshark Network Analysis Home Lab ➰🦈](https://github.com/kevinnyeo/wiresharkhomelab)
 - [Malware Hunting With Redline [Endpoint Security Tool] 👾💻☠️](https://github.com/kevinnyeo/Malwarehunting)
+- [Digital Forensics Investigation [CTF] 🕵🏻‍♀️🔐🚩](https://github.com/kevinnyeo/digitalforensics)
+
 <h2>📝 Certifications: </h2>
 
 - [Google IT Support Professional](https://github.com/joshmadakor1/Algorithms-Practice)
