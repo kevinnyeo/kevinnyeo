@@ -1,15 +1,15 @@
 <h1>Hi, I'm Kevin! </h1>
 
 <h2>💫 About Me:</h2>
-   I'm currently serving NS</br>
-   I'm currently learning about</br>
+   I'm currently serving NS (till 2024)</br>
+   I'm interested in starting a career in cybersecurity specializing in GRC</br>
+   I'm currently learning about compliance frameworks such as NIST, ISO 27001, COBIT, PCI DSS and HIPAA </br>
 
 <h2>💻 Tech Stack:</h2>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
@@ -26,11 +26,14 @@
 
 <h2>📝 Certifications: </h2>
 
-- [Google IT Support Professional](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Google Cybsecurity Professional](https://github.com/joshmadakor1/Algorithms-Practice)
+- Cybersecurity Professional by Google (In Progress)
+- [Blue Team Junior Analyst by Security Blue Team](https://imgur.com/PLeWmLq) 
+- [Vulnerability Management Detection & Response by Qualys](https://imgur.com/jnzJHLz)
+- [IT Support Professional by Google](https://coursera.org/share/e5942dbc2c59bb3846f73033e1aae197)
+
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kevinyeo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kevinyyh) 
 
 
 
