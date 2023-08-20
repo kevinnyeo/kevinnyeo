@@ -18,6 +18,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Microsoft Windows Active Directory Setup Lab [IAM/PAM]🗔](https://github.com/kevinnyeo/WindowsAD)
 - [Configuring Microsoft Windows Defender and Firewall 🛡️🔥🧱](https://github.com/kevinnyeo/MicrosoftWindowsDefenderFirewall)
 - [Microsoft Windows Defender Firewall Automation [Python Script] ⚙️🔧🐍](https://github.com/kevinnyeo/FirewallAutomation)
 - [Wireshark Network Analysis Home Lab ➰🦈](https://github.com/kevinnyeo/wiresharkhomelab)
