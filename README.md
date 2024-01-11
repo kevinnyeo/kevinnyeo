@@ -15,6 +15,10 @@
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![Powershell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white)
 
+<h2>☁️ Cloud Projects:</h2>
+
+- [Building A Serverless Web Application [AWS]](https://github.com/kevinnyeo/aws-serverless-web-application)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Microsoft Windows Active Directory Setup Lab [IAM/PAM]🗔](https://github.com/kevinnyeo/WindowsAD)
