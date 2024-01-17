@@ -17,6 +17,7 @@
 
 <h2>☁️ Cloud Projects:</h2>
 
+- [Terraform Infrastructure as Code (IaC) with GitLab CI/CD](https://github.com/kevinnyeo/gitlabcicd)
 - [Cloud Detection Lab [Azure]](https://github.com/kevinnyeo/clouddetectionlab)
 - [Building A Serverless Web Application [AWS]](https://github.com/kevinnyeo/aws-serverless-web-application)
 
