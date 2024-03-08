@@ -32,7 +32,7 @@
 
 <h2>📝 Certifications: </h2>
 
-- Cybersecurity Professional by Google (In Progress)
+- [Cybersecurity Professional by Google](https://www.coursera.org/account/accomplishments/professional-cert/9ULDX5TTH4EF)
 - [Blue Team Junior Analyst by Security Blue Team](https://imgur.com/PLeWmLq) 
 - [Vulnerability Management Detection & Response by Qualys](https://imgur.com/jnzJHLz)
 - [IT Support Professional by Google](https://coursera.org/share/e5942dbc2c59bb3846f73033e1aae197)
