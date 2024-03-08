@@ -2,7 +2,6 @@
 
 <h2>💫 About Me:</h2>
    I'm currently serving NS (till 2024)</br>
-   I'm currently self studying cybersecurity and planning to pursue a career in this field upon completion of my NS
 
 <h2>💻 Tech Stack:</h2>
 
